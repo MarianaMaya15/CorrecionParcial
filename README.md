@@ -1,5 +1,7 @@
 # SmartLibrary - Parcial Programación 2
 
+Mariana Rodriguez Maya y Laura Vanessa Guerrero Blanco
+
 ## 1. Descripción del proyecto
 
 Este proyecto representa una biblioteca digital llamada **SmartLibrary**.
